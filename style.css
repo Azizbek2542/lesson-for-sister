@@ -5,7 +5,7 @@ table {
     margin: 0 auto;
 }
 table,td,tr,th {
-    border: 2px solid orange;
+    border: 2px solid rgb(0, 85, 255);
     border-collapse: collapse;
     height: 30px;
 }
